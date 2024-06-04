@@ -1,0 +1,26 @@
+[
+  {
+    "heroName": "Dr Manhattan",
+    "firstName": "Jonathan",
+    "lastName": "Osterman",
+    "image": "../homepage/images/DrManhattan.jpg",
+    "description": "Details information is shown here...",
+    "id": 0
+  },
+  {
+    "heroName": "Superman",
+    "firstName": "Clark",
+    "lastName": "Kent",
+    "image": "../images/superman.jpg",
+    "description": "Details information is shown here...",
+    "id": 1
+  },
+  {
+    "heroName": "Hulk",
+    "firstName": "Bruce",
+    "lastName": "Banner",
+    "image": "../images/hulk.jpg",
+    "description": "Details information is shown here...",
+    "id": 2
+  }
+]
